@@ -40,6 +40,8 @@ To make sense of massive datasets, forecast trends, comprehend user behaviour, a
 
 ![alt text](MuseScorePiano.mp3)
 
+I thought that muse score was very effective for this piece of music. This is because it provided me with a cery accurate outcome to the original. The only areas it got confused where on the pieces that where a bit smudged or the writing wasn't too clear.  
+
 
 
 
