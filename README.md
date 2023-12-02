@@ -43,6 +43,15 @@ To make sense of massive datasets, forecast trends, comprehend user behaviour, a
 I thought that muse score was very effective for this piece of music. This is because it provided me with a cery accurate outcome to the original. The only areas it got confused where on the pieces that where a bit smudged or the writing wasn't too clear.  
 
 
+# Week 3
+
+### Task 1 - Generating MusicXML and MEI files
+
+
+
+
+
+
 
 
 
