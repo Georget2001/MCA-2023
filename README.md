@@ -36,6 +36,11 @@ To make sense of massive datasets, forecast trends, comprehend user behaviour, a
 > 3. Edit at least 10 bars in MuseScore.
 > 4. Discuss the aspects of your score that were not transcribed properly by the OMR engine, referencing your group discussions on Tuesday as well.
 
+![alt text](MuseScorePiano.pdf)
+
+![alt text](MuseScorePiano.mp3)
+
+
 
 
 
