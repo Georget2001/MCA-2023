@@ -24,3 +24,14 @@ For may dataset I will be choosing the 502's. The indie folk-rock group The 502'
 Regarding the current types of music-related data, numerous platforms such as Spotify, Apple Music, and YouTube offer enormous volumes of data regarding user preferences, streaming numbers, and playlist placements. Social media sites provide information about the involvement and popularity of an artist. Integrating data from these various sources and guaranteeing its relevance and accuracy, however, continue to be difficult tasks.
 
 To make sense of massive datasets, forecast trends, comprehend user behaviour, and inform marketing plans, researchers and analysts frequently employ sophisticated data analytics and machine learning approaches. But managing the intricacies of music-related data—including moral and legal issues—remains a dynamic and developing topic.
+
+# Week 2
+
+### Task 1 
+
+>To complete this week’s activity, you will need to accomplish the following tasks:
+
+> 1. Identify a piece of music to download and edit.
+> 2. As you did on Tuesday, download the PDF and then convert it to MuseScore
+> 3. Edit at least 10 bars in MuseScore.
+Discuss the aspects of your score that were not transcribed properly by the OMR engine, referencing your group discussions on Tuesday as well. 
