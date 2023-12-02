@@ -37,3 +37,10 @@ To make sense of massive datasets, forecast trends, comprehend user behaviour, a
 > 4. Discuss the aspects of your score that were not transcribed properly by the OMR engine, referencing your group discussions on Tuesday as well.
 
 
+
+
+
+
+
+
+
