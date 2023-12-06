@@ -47,8 +47,8 @@ I thought that muse score was very effective for this piece of music. This is be
 
 ### Task 1 - Generating MusicXML and MEI files
 
-![alt text] (Georgework.mei)
-![alt text] (Georgework.musicxml)
+![alt text](Georgework.mei)
+![alt text](Georgework.musicxml)
 
 
 # Week 4
