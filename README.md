@@ -110,6 +110,8 @@ Biography: A legendary British singer and songwriter, best known as the lead voc
 
 ### Task 2 
 
+![alt text](BelaBartokss.png)
+![alt text](BelaBartokmei)
 
 
 
