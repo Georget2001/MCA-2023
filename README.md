@@ -53,7 +53,8 @@ I thought that muse score was very effective for this piece of music. This is be
 
 # Week 4
 
-
+![alt text](georgehistogram.png)
+![alt text](georgepianoroll.png)
 
 
 
