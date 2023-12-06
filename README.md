@@ -108,6 +108,11 @@ Active Years: 1969–1991
 Biography: A legendary British singer and songwriter, best known as the lead vocalist of the rock band Queen.
 
 
+### Task 2 
+
+
+
+
 
 
 
