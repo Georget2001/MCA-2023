@@ -57,6 +57,58 @@ I thought that muse score was very effective for this piece of music. This is be
 ![alt text](georgepianoroll.png)
 
 
+# Week 5
+
+### Task 1 
+
+>Create a metadata schema by listing the elements (or a subset of at least 5 elements)
+
+
+Song Metadata:
+
+Title: (String) The title of the song.
+Duration: (Time) The duration of the song.
+Release Date: (Date) The date when the song was released.
+Genre: (String) The genre of the song.
+Artist: (String) The name of the artist who performed the song.
+Album: (String) The name of the album containing the song (if applicable).
+Track Number: (Integer) The track number of the song on the album (if applicable).
+Lyrics: (Text) The lyrics of the song.
+Composer(s): (String or List of Strings) The composer(s) of the song.
+Producer(s): (String or List of Strings) The producer(s) of the song.
+Language: (String) The language in which the song is sung.
+Artist Metadata:
+
+Name: (String) The name of the artist.
+Date of Birth: (Date) The date of birth of the artist.
+Place of Birth: (String) The place where the artist was born.
+Nationality: (String) The nationality of the artist.
+Genres: (List of Strings) The genres associated with the artist.
+Active Years: (Range of Dates) The period during which the artist was active.
+Biography: (Text) A brief biography of the artist.
+Discography: (List of Albums) A list of albums released by the artist.
+Awards: (List of Strings) Any awards or recognitions received by the artist.
+Example Instances:
+
+For a specific song:
+
+Title: "Bohemian Rhapsody"
+Duration: 6 minutes 7 seconds
+Release Date: November 31, 1975
+Genre: Rock
+Artist: Queen
+For a specific artist:
+
+Name: Freddie Mercury
+Date of Birth: September 5, 1946
+Place of Birth: Stone Town, Zanzibar
+Nationality: British
+Genres: Rock, Pop
+Active Years: 1969–1991
+Biography: A legendary British singer and songwriter, best known as the lead vocalist of the rock band Queen.
+
+
+
 
 
 
