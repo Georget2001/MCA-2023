@@ -156,11 +156,19 @@ In 200 words (max), describe at least one advantage of a time-frequency analysis
 ![alt text](gnoissiennespectogram.png)
 ![alt text](gnoissienneswaveform.png)
 
-
 ##### gymnopedie_No1_cmfm
 
 ![alt text](gymnopediespectogram.png)
 ![alt text](gymnopediewaveform.png)
+
+
+Because time-frequency analysis may reveal dynamic changes in signal frequency across time, it has a clear benefit over waveform-based analysis. One of the best ways to demonstrate this benefit is to look at spectrograms, which show how a signal's frequency content changes over time. Spectrograms provide a thorough, time-localized breakdown of the frequency components present at different points in time, in contrast to waveforms, which show the complete signal in the time domain.
+
+For example, in voice processing, a waveform representation may be able to capture the overall speech signal, but it is not as granular when it comes to vowel formants or pitch shifts. A spectrogram, on the other hand, shows frequency components in a time-varying manner, revealing subtleties like pitch changes during speech or musical notes. This is important because it helps with applications like music analysis and automatic voice recognition, where it is critical to comprehend the temporal evolution of frequency components.
+
+In summary, time-frequency analysis, as demonstrated by spectrograms, has the advantage of being able to reveal the dynamic frequency characteristics of signals, providing a more comprehensive and insightful representation than waveform-based analysis, especially in applications that call for in-depth temporal-frequency insights.
+
+
 
 
 
