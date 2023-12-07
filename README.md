@@ -137,6 +137,11 @@ Remember to do this!
 > Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
 Identify and list (in a table) the most important technical and non-technical metadata associated with each track.
 
+![alt text](musicexcel.png)
+
+> For each downloaded track, generate a spectrogram (with a log-spaced frequency scale) in SonicVisualizer.
+Export the waveform and spectrogram in an image format for your GitHub portfolio.
+In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
 
 
 
