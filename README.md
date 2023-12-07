@@ -151,6 +151,21 @@ In 200 words (max), describe at least one advantage of a time-frequency analysis
 ![alt text](debussywaveform.png)
 
 
+##### Gnoissienne_No1_cmfm
+
+![alt text](gnoissiennespectogram.png)
+![alt text](gnoissienneswaveform.png)
+
+
+##### gymnopedie_No1_cmfm
+
+![alt text](gymnopediespectogram.png)
+![alt text](gymnopediewaveform.png)
+
+
+
+
+
 
 
 
