@@ -139,6 +139,8 @@ Identify and list (in a table) the most important technical and non-technical me
 
 ![alt text](musicexcel.png)
 
+### Task 2
+
 > For each downloaded track, generate a spectrogram (with a log-spaced frequency scale) in SonicVisualizer.
 Export the waveform and spectrogram in an image format for your GitHub portfolio.
 In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
