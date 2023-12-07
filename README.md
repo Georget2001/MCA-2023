@@ -145,6 +145,12 @@ Identify and list (in a table) the most important technical and non-technical me
 Export the waveform and spectrogram in an image format for your GitHub portfolio.
 In 200 words (max), describe at least one advantage of a time-frequency analysis over a waveform-based analysis. Provide at least one example of the identified advantage by referencing a specific subpart of the output from step 1.
 
+##### Debussy Arabesque_No1
+
+![alt text](debussyspectogram.png)
+![alt text](debussywaveform.png)
+
+
 
 
 
