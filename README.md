@@ -114,7 +114,17 @@ Biography: A legendary British singer and songwriter, best known as the lead voc
 ![alt text](BelaBartokmei)
 
 
+# Week 7 
 
+### Task 1
+
+> Create a second version of your MEI file with the updated metadata. To do this, open your original MEI file and select ‘Save As’. Then, edit your metadata:
+Add a genre classifications
+Add specific licensing data (consider Creative Commons licenses)
+Once added, discuss why you have made the choices you made.
+
+![alt text](georgemusefinalpic.png)
+![alt text](georgemusefinal.mei)
 
 
 
