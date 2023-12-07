@@ -126,6 +126,19 @@ Once added, discuss why you have made the choices you made.
 ![alt text](georgemusefinalpic.png)
 ![alt text](georgemusefinal.mei)
 
+### Task 2
+
+Remember to do this!
+
+# Week 8
+
+### Task 1 
+
+> Identify and download 3 music tracks relating to your theme. Ideally, these should be different in their sound and style.
+Identify and list (in a table) the most important technical and non-technical metadata associated with each track.
+
+
+
 
 
 
