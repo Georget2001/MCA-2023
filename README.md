@@ -154,7 +154,7 @@ In 200 words (max), describe at least one advantage of a time-frequency analysis
 ##### Gnoissienne_No1_cmfm
 
 ![alt text](gnoissiennespectogram.png)
-![alt text](gnoissienneswaveform.png)
+![alt text](gnoissiennewaveform.png)
 
 ##### gymnopedie_No1_cmfm
 
@@ -194,7 +194,27 @@ Take a screenshot of the panes  (or export the annotation layers as an image)
 ![alt text](gymnopedie4.png)
 
 
+### Task 2
 
+>for each track and feature type extracted in task 1:
+In Python (Jupyter notebook or otherwise), load the three CSV files with the raw features
+Compute and visualize the histogram of the features for the three tracks
+
+##### Debussy Arabesque_No1
+
+![alt text](debussyhist1.png)
+![alt text](debussyhist2.png)
+
+
+##### Gnoissienne_No1_cmfm
+
+![alt text](gnossiennehist1.png)
+![alt text](gnossiennehist2.png)
+
+##### gymnopedie_No1_cmfm
+
+![alt text](gymnopediehist1.png)
+![alt text](gymnopediehist2.png)
 
 
 
