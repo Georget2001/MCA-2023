@@ -168,6 +168,30 @@ For example, in voice processing, a waveform representation may be able to captu
 
 In summary, time-frequency analysis, as demonstrated by spectrograms, has the advantage of being able to reveal the dynamic frequency characteristics of signals, providing a more comprehensive and insightful representation than waveform-based analysis, especially in applications that call for in-depth temporal-frequency insights.
 
+# Week 9
+
+
+### Task 1
+
+
+>Load the track and add 3 panes. One should be a Spectrogram, one a Mel Frequency Cepstral Coefficients, and one a Chromagram
+Take a screenshot of the panes  (or export the annotation layers as an image)
+>
+>
+
+##### Debussy Arabesque_No1
+
+![alt text](debussy4.png)
+
+
+##### Gnoissienne_No1_cmfm
+
+![alt text](gnoissienne4.png)
+
+
+##### gymnopedie_No1_cmfm
+
+![alt text](gymnopedie4.png)
 
 
 
