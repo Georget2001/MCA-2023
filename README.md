@@ -216,6 +216,10 @@ Compute and visualize the histogram of the features for the three tracks
 ![alt text](gymnopediehist1.png)
 ![alt text](gymnopediehist2.png)
 
+### Task 2.1
+
+>For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
+
 
 
 
