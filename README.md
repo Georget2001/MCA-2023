@@ -220,6 +220,8 @@ Compute and visualize the histogram of the features for the three tracks
 
 >For either the MFCC or Chroma feature, compare the histograms for the 3 tracks and highlight/discuss if the histograms capture significant differences between the tracks and if you expected this difference based on listening to the tracks
 
+You can clearly see the differeneces between the three tracks. you can see the first one has the lowest amount, with the second and third having similar amounts to begine with howevever with number 2 being a lot higher the third one has a much thicker amount. 
+
 
 
 
