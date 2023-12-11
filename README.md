@@ -4,7 +4,10 @@
 
 > Identify a theme for your dataset. This will be the central, cohesive strand that will bring your data together. It can be an artist, composer, songwriter, performer, album, larger work (i.e. opera, musical, etc.), time period, genre, archival grouping, etc. You will want to be sure that you can gather all three types of data (musical scores, metadata, and audio recordings) based on your selected theme. 
 
-For may dataset I will be choosing the 502's. The indie folk-rock group The 502's create a soundscape that captures the spirit of the heartland. Their music, which is from Maitland, Florida, seamlessly combines modern indie flair with Americana origins. The 502's encapsulate the essence of life's journey, the complexities of love, and the resiliency of the human spirit with their soulful melodies and heartfelt lyrics. Their performances elicit strong emotional responses from the audience and immerse them in the action. The 502's are a unique force in the indie music world because of their addictive energy and refreshing genuineness, which create a lasting impression on listeners. They are rooted in real storytelling.
+
+For my data set I have chosen Bela Bartok. Béla Bartók (1881–1945) stands as one of the 20th century's most influential and innovative composers, ethnomusicologists, and pianists. Born in Hungary, Bartók's musical journey began with a profound appreciation for the folk traditions of his homeland. His pioneering work in ethnomusicology involved extensive fieldwork, where he traveled through remote villages, recording and preserving the rich tapestry of Eastern European folk music.
+
+Bartók's compositional style evolved, blending folk elements with modernist techniques. His music is characterized by rhythmic vitality, unconventional scales, and intricate harmonies, reflecting a deep exploration of both classical and folk idioms. Pieces such as "Mikrokosmos" and "Music for Strings, Percussion, and Celesta" showcase his mastery in fusing folk motifs with avant-garde elements.
 
 ### Task 2
 
